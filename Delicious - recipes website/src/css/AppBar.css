@@ -1,0 +1,14 @@
+.app-bar{
+    background-color: #F8F5F2;
+    color:#436448; 
+    position: sticky;
+    z-index: 10;
+}
+.page-btn{
+    color: #141414 !important;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    border-radius: 0px !important;
+ 
+}
+

@@ -1,0 +1,16 @@
+.main {
+    width: 100vw;
+    height: 93vh;
+    background-image: url('../../public/images/brooke-lark-wMzx2nBdeng-unsplash.jpg');
+    background-size: cover;
+    background-position: center 25%;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#233b28; 
+
+}
